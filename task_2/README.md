@@ -1,6 +1,6 @@
 # Стилистическое преобразование чисел
 
-### please run `node index.js` in the "кейс-задача_№_2"
+### please run `node index.js` in the "task_2"
 
 Example:
 
